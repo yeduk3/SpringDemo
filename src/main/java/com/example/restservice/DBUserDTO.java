@@ -1,5 +1,5 @@
-package com.example.restservice;
+// package com.example.restservice;
 
-public record DBUserDTO(int user_id, String username, String email) {
+// public record DBUserDTO(int user_id, String username, String email) {
 
-}
+// }
